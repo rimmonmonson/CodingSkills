@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SA.DriverReportGenerator", "SA.DriverReportGenerator\SA.DriverReportGenerator.csproj", "{553307BB-30B7-4770-BE54-E773223E9A21}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SA.Entities", "SA.Entities\SA.Entities.csproj", "{B9AEB9ED-C59A-47EC-9FD7-F4505CD50C9A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SA.Helpers", "SA.Helpers\SA.Helpers.csproj", "{B3095C6D-CADA-4472-B649-447A5D1A8991}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SA.Tests", "SA.Tests\SA.Tests.csproj", "{451A2426-A4DC-428D-9AC4-83300980C10F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{553307BB-30B7-4770-BE54-E773223E9A21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{553307BB-30B7-4770-BE54-E773223E9A21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{553307BB-30B7-4770-BE54-E773223E9A21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{553307BB-30B7-4770-BE54-E773223E9A21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9AEB9ED-C59A-47EC-9FD7-F4505CD50C9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9AEB9ED-C59A-47EC-9FD7-F4505CD50C9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9AEB9ED-C59A-47EC-9FD7-F4505CD50C9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9AEB9ED-C59A-47EC-9FD7-F4505CD50C9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3095C6D-CADA-4472-B649-447A5D1A8991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3095C6D-CADA-4472-B649-447A5D1A8991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3095C6D-CADA-4472-B649-447A5D1A8991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3095C6D-CADA-4472-B649-447A5D1A8991}.Release|Any CPU.Build.0 = Release|Any CPU
+		{451A2426-A4DC-428D-9AC4-83300980C10F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{451A2426-A4DC-428D-9AC4-83300980C10F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{451A2426-A4DC-428D-9AC4-83300980C10F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{451A2426-A4DC-428D-9AC4-83300980C10F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91452C9C-0711-45BE-A8AE-609EBFCFAA0C}
+	EndGlobalSection
+EndGlobal
